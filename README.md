@@ -1,5 +1,8 @@
 Astroを使ったWebサイトのレイアウトテンプレート。
 
+## サンプルサイト
+[https://astro-template-layout.pages.dev/](https://astro-template-layout.pages.dev/)
+
 ## 要件
 - Astro
 - React
