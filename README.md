@@ -23,6 +23,17 @@ Astroを使ったWebサイトのレイアウトテンプレート。
 - スムーススクロール
 - Cloudflare Pagesへのデプロイ
 
+## Astroのインストールでテンプレートとして利用する方法
+プロジェクトフォルダ内で以下のコマンドを実行する。
+```
+npm create astro@latest . -- --template Shoirhi/astro-template-layout
+```
+質問は以下のように回答する。
+- Do you plan to write TypeScript? : Yes
+- How strict should TypeScript be? : Strict
+- Install dependencies? : Yes
+- Initialize a new git repository? : Yes
+
 ## OGPの設定について
 以下のサイトを参照する。
 [https://ogp.me/](https://ogp.me/)
