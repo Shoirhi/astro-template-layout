@@ -1,5 +1,5 @@
 /** @type {import('tailwindcss').Config} */
-import fluid, { extract } from "fluid-tailwind";
+import fluid, { extract, screens, fontSize } from "fluid-tailwind";
 
 export default {
   darkMode: ["class"],
@@ -57,6 +57,8 @@ export default {
         },
       },
     },
+    screens,
+    fontSize,
   },
   plugins: [require("tailwindcss-animate"), fluid],
 };
