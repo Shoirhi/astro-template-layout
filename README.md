@@ -5,6 +5,7 @@ Astroを使ったWebサイトのレイアウトテンプレート。
 - React
 - Tailwind CSS
 - shadcn/ui
+- React Icons
 
 ## 機能
 - 基本レイアウト（Base Layout）
