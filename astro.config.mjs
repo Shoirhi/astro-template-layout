@@ -11,7 +11,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://astro-template-layout.app.dev/", //同じ値をconfig/constantsのENVIRONMENTに設定
+  site: "https://astro-template-layout.pages.dev/", //同じ値をconfig/constantsのENVIRONMENTに設定
   integrations: [
     react(),
     tailwind({

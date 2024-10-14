@@ -3,7 +3,7 @@ export const IS_PRODUCTION = process.env.NODE_ENV === "production";
 
 export const SITE: Site = {
   website: IS_PRODUCTION
-    ? "https://astro-template-layout.app.dev/" //同じ値をastro.config.mjsのsiteに設定
+    ? "https://astro-template-layout.pages.dev/" //同じ値をastro.config.mjsのsiteに設定
     : "http://localhost:4321/",
   base: "/",
   siteName: "Astro Template Layout",
