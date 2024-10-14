@@ -21,6 +21,7 @@ Astroを使ったWebサイトのレイアウトテンプレート。
 - View Transition
 - ビューポートが375px未満での表示倍率の縮小（Adjust Viewport）
 - スムーススクロール
+- [滑らかなレスポンシブ](https://fluid.tw/)
 - Cloudflare Pagesへのデプロイ
 
 ## Astroのインストールでテンプレートとして利用する方法
